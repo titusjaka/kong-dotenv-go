@@ -1,7 +1,8 @@
 on:
-  pull_request:
+  pull_request_target:
     types:
       - opened
+      - edited
 
 name: auto:pr:conventional-label
 jobs:

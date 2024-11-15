@@ -234,7 +234,7 @@ linters-settings:
 
   gosimple:
     # Select the Go version to target. The default is '1.13'.
-    go: "1.18"
+    go: "1.20"
     # https://staticcheck.io/docs/options#checks
     checks: [ "all" ]
 

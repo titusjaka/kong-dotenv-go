@@ -1,6 +1,6 @@
 module github.com/titusjaka/kong-dotenv-go
 
-go 1.18
+go 1.20
 
 require (
 	github.com/alecthomas/kong v1.4.0
